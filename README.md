@@ -9,18 +9,12 @@ This repository contains input videos, target images, frame extracts, and output
 
 ## Repository structure
 
-- frames/ — frame images extracted from videos
-  - frame1.jpg
-
 - input/ — source videos and target images used by the processing pipeline
   - kct1.mp4
   - kct2.mp4
   - kct3.mp4
   - kct4.mp4
   - kct11.mp4
-  - target1.jpg
-  - target2.jpg
-  - target3.jpg
 
 - output/ — results produced by the processing pipeline (currently not included in repository)
   - (results)
