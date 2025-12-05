@@ -1,4 +1,5 @@
 # Masterarbete2022 — Video-based Aim-Point Analysis and Visualization
+https://urn.kb.se/resolve?urn=urn:nbn:se:miun:diva-48041
 
 ## Summary
 This project processes a video of a target and an aim-point to track the target, compute aim-point statistics (offsets, distance, velocity, acceleration, precision, accuracy) and produce visualizations (overlaid video frames, time-series graphs, polar plots and a composite "final" layout). It uses OpenCV for image/video I/O and drawing, NumPy/math for numeric operations, and Matplotlib (FigureCanvasAgg) to render plots which are converted into OpenCV images and overlaid on frames.
