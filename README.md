@@ -1,6 +1,7 @@
 # Masterarbete2022
 
 A small project repository containing video/image processing inputs and results for a master's thesis.
+https://urn.kb.se/resolve?urn=urn:nbn:se:miun:diva-48041
 
 ## Overview
 
